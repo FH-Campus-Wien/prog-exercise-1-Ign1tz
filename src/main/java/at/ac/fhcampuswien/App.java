@@ -41,6 +41,7 @@ public class App {
         f = (int) 5.5f;
         g = (int) 8.88e1;
         h = (int) 99.9;
+
         System.out.println(a+b+c+d+e+f+g+h);
         // input your solution here
     }
